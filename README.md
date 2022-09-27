@@ -1,7 +1,7 @@
 <h2> Hi there, I'm Tomas Matarazzo! <img src="https://media.giphy.com/media/da1EiKIHJYBwARJJ2y/giphy.gif" width="30"> </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p>Welcome to my page! </br> I'm Tomas , Fullstack developer from <a href="https://www.flaticon.es/iconos-gratis/argentina" title="argentina iconos">Argentina iconos creados por Kathelynnexx - Flaticon</a> <b>Mar del Plata, Argentina</b>, 
-<p><em>Freelancer </p></br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Freelancer</p><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p> 
 <h3>Things I code with</h3>
 <p>
