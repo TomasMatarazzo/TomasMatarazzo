@@ -2,7 +2,7 @@
 <p align = 'left'></br>Fullstack developer from <b>Mar del Plata, Argentina</b>
 <p><em>Software Engineer Student </p>
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
-<p><em>Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p> 
+<p><em>Freelancer </em></p> 
 <h3>Things I code with</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasMatarazzo&hide_progress=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
