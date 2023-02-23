@@ -4,6 +4,9 @@
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p> 
 <h3>Things I code with</h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasMatarazzo&hide_progress=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <p>
 <h3>Technologies and tools</h3>
 
@@ -35,4 +38,3 @@
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasMatarazzo&hide_progress=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
