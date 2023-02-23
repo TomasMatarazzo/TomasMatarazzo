@@ -1,5 +1,5 @@
-<h2 align = 'left'> Hi there, I'm Tomas Matarazzo! <img src="https://media.giphy.com/media/da1EiKIHJYBwARJJ2y/giphy.gif" width="30"> </h2>
-<p align = 'right'></br>Fullstack developer from <b>Mar del Plata, Argentina</b>
+<h2 align = 'center'> Hi there, I'm Tomas Matarazzo! <img src="https://media.giphy.com/media/da1EiKIHJYBwARJJ2y/giphy.gif" width="30"> </h2>
+<p align = 'left'></br>Fullstack developer from <b>Mar del Plata, Argentina</b>
 <p><em>Software Engineer Student </p>
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p> 
