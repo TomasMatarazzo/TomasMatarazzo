@@ -1,6 +1,6 @@
 <h2 align = 'center'> Hi there, I'm Tomas Matarazzo! <img src="https://media.giphy.com/media/da1EiKIHJYBwARJJ2y/giphy.gif" width="30"> </h2>
 <p align = 'left'></br><em>Fullstack developer from <b>Mar del Plata, Argentina 🇦🇷</em></b>
-<p><em>Software Engineer Student </p>
+<p><em>Software Engineer</p>
  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 <p><em>Freelancer </em></p> 
 <h3>Things I code with</h3>
